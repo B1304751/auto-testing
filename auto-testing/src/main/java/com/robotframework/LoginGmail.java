@@ -1,19 +1,15 @@
 package com.robotframework;
-import org.robotframework.javalib.annotation.Autowired;
 import org.robotframework.javalib.annotation.RobotKeyword;
 import org.robotframework.javalib.annotation.RobotKeywords;
 
-import com.github.markusbernhardt.selenium2library.keywords.BrowserManagement;
+import com.github.markusbernhardt.selenium2library.Selenium2Library;
 
 @RobotKeywords
-public class LoginGmail{
+public class LoginGmail extends Selenium2Library {
 	
-	@Autowired
-	BrowserManagement browser;
-	
-	@RobotKeyword
-	public void loggingGmail() throws Throwable{
-		browser.openBrowser("https://google.com");
+	@RobotKeyword("Logging Gmail")
+	public void loggingGmail(){
+		
 	}
 	
 }

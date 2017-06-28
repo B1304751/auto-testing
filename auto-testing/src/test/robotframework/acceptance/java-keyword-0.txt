@@ -1,0 +1,13 @@
+*** Settings ***
+Library  org.robotframework.javalib.library.AnnotationLibrary  com/robotframework/**.class
+Library  org.robotframework.javalib.library.ClassPathLibrary  com/robotframework/**.class
+*** Test cases ***
+Test Annotation Library
+	[Tags]  javalibcore
+	Logging Of Me
+Test Interface Keyword
+	[Tags]  javalibcore
+	Interface Keyword
+Open Browsers
+	[Tags]  selenium2library
+	Logging Gmail

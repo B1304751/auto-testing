@@ -1,13 +1,18 @@
 *** Settings ***
+Library  Selenium2Library
 Library  org.robotframework.javalib.library.AnnotationLibrary  com/robotframework/**.class
-Library  org.robotframework.javalib.library.ClassPathLibrary  com/robotframework/**.class
+Resource  user-data.txt
+*** Variables ***
+${SEARCH_KEY}  youtube
 *** Test cases ***
-Test Annotation Library
-	[Tags]  javalibcore
-	Logging Of Me
-Test Interface Keyword
-	[Tags]  javalibcore
-	Interface Keyword
-Open Browsers
+Auto testing with the java keywords
 	[Tags]  selenium2library
-	Logging Gmail
+	Init
+	Logging Gmail  ${EMAIL}  ${PASSWORD}
+	Search On Google  ${SEARCH_KEY}
+	Play Song Youtube
+	Sleep  10s
+	Play Next
+	Sleep  10s
+	Close Testing
+

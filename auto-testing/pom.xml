@@ -1,56 +1,94 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>com.robotframework</groupId>
-  <artifactId>auto-testing</artifactId>
-  <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
-  <name>auto-testing</name>
-  <url>http://maven.apache.org</url>
-  
-  <properties>
-  	<junit.version>3.8.1</junit.version>
-  	<robotframework.version>3.0.2</robotframework.version>
-  	<selenium2library.version>1.4.0.8</selenium2library.version>
-  </properties>
-  
-  <dependencies>
-    <!-- junit dependencies -->
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>3.8.1</version>
-      <scope>test</scope>
-    </dependency>
-    <!-- robotframework dependencies -->
-    <dependency>
-    	<groupId>org.robotframework</groupId>
-    	<artifactId>robotframework</artifactId>
-    	<version>${robotframework.version}</version>
-    </dependency>
-    <!-- selenium2library dependencies -->
-    <dependency>
-    	<groupId>com.github.markusbernhardt</groupId>
-    	<artifactId>robotframework-selenium2library-java</artifactId>
-    	<version>${selenium2library.version}</version>
-    </dependency>
-  </dependencies>
-  <build>
-  	<plugins>
-  		<!-- maven-plugin for robotframework: using for build without jthon, python -->
-  		<plugin>
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.robotframework</groupId>
+	<artifactId>auto-testing</artifactId>
+	<packaging>jar</packaging>
+	<version>1.0-SNAPSHOT</version>
+	<name>auto-testing</name>
+	<url>http://maven.apache.org</url>
+
+	<properties>
+		<junit.version>3.8.1</junit.version>
+		<robotframework.version>3.0.2</robotframework.version>
+		<selenium2library.version>1.4.0.8</selenium2library.version>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+	<dependencies>
+		<!-- junit dependencies -->
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.8</version>
+			<scope>test</scope>
+		</dependency>
+		<!-- robotframework dependencies -->
+		<dependency>
 			<groupId>org.robotframework</groupId>
-			<artifactId>robotframework-maven-plugin</artifactId>
-			<version>1.4.7</version>
-			<executions>
-				<execution>
-					<goals>
-						<goal>run</goal>
-					</goals>
-				</execution>
-			</executions>
-  		</plugin>
-  	</plugins>
-  </build>
-  
+			<artifactId>robotframework</artifactId>
+			<version>${robotframework.version}</version>
+		</dependency>
+		<!-- selenium2library dependencies -->
+		<dependency>
+			<groupId>com.github.markusbernhardt</groupId>
+			<artifactId>robotframework-selenium2library-java</artifactId>
+			<version>${selenium2library.version}</version>
+		</dependency>
+	</dependencies>
+	<build>
+		<plugins>
+			<!-- maven-plugin for robotframework: using for build without jthon, python -->
+			<plugin>
+				<groupId>org.robotframework</groupId>
+				<artifactId>robotframework-maven-plugin</artifactId>
+				<version>1.4.7</version>
+				<executions>
+					<execution>
+						<goals>
+							<goal>run</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<groupId>org.jacoco</groupId>
+				<artifactId>jacoco-maven-plugin</artifactId>
+				<version>0.6.5.201403032054</version>
+				<executions>
+					<execution>
+						<id>pre-unit-test</id>
+						<goals>
+							<goal>prepare-agent</goal>
+						</goals>
+						<configuration>
+							<destFile>${project.build.directory}/coverage-reports/jacoco-ut.exec</destFile>
+							<propertyName>surefireArgLine</propertyName>
+						</configuration>
+					</execution>
+					<execution>
+						<id>post-unit-test</id>
+						<phase>test</phase>
+						<goals>
+							<goal>report</goal>
+						</goals>
+						<configuration>
+							<!-- Sets the path to the file which contains the execution data. -->
+							<dataFile>${project.build.directory}/coverage-reports/jacoco-ut.exec</dataFile>
+							<!-- Sets the output directory for the code coverage report. -->
+							<outputDirectory>${project.reporting.outputDirectory}/jacoco-ut</outputDirectory>
+						</configuration>
+					</execution>
+				</executions>
+				<dependencies>
+					<dependency>
+						<groupId>commons-collections</groupId>
+						<artifactId>commons-collections</artifactId>
+						<version>3.2.1</version>
+					</dependency>
+				</dependencies>
+			</plugin>
+			
+		</plugins>
+	</build>
 </project>

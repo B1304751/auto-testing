@@ -95,7 +95,6 @@ public class WebKeyword {
 		webElement = browser.findElementByXPath("//*[@id=\"eow-title\"]");
 		
 		return webElement.getAttribute("title");
-		
 	}
 	
 	public static void main(String[] args) {

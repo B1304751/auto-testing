@@ -8,11 +8,6 @@ ${SEARCH_KEY}  youtube
 Auto testing with the java keywords
 	[Tags]  selenium2library
 	Init
-	Logging Gmail  ${EMAIL}  ${PASSWORD}
-	Search On Google  ${SEARCH_KEY}
-	Play Song Youtube
-	Sleep  10s
-	Play Next
-	Sleep  10s
-	Close Testing
+	Loggin Gmail  ${EMAIL}  ${PASSWORD}
+	Search Google  ${SEARCH_KEY}
 

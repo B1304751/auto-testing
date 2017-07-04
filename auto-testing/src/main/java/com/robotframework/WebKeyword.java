@@ -16,11 +16,11 @@ public class WebKeyword {
 		wait = new WebDriverWait(browser, 5);
 	}
 	
-	public String loginGmail(String email, String password) {
+	public void loginGmail(String email, String password) {
 //		open browser to specifices url
 		browser.get("https://google.com");
 		browser.manage().window().maximize();
-//		click butong "Đăng nhập"
+//		click buton "Đăng nhập"
 		WebElement webElement = browser.findElementById("gb_70");
 		webElement.click();
 //		input email
@@ -34,21 +34,28 @@ public class WebKeyword {
 		webElement = browser.findElementByXPath("//input[@name='password']");
 		webElement.sendKeys(password);
 //		click next
+		webElement = wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("passwordNext")));
 		webElement = browser.findElementById("passwordNext");
 		webElement.click();
 		
-//		text id email
+//		click avatar email
 		webElement = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id=\"gbw\"]/div/div/div[2]/div[4]/div[1]/a")));
 		webElement = browser.findElementByXPath("//*[@id=\"gbw\"]/div/div/div[2]/div[4]/div[1]/a");
+		webElement.click();
 		
-		return webElement.getAttribute("title");
+//		get email 
+		webElement = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id=\"gbw\"]/div/div/div[2]/div[4]/div[2]/div[1]/div/div[2]")));
+		webElement = browser.findElementByXPath("//*[@id=\"gbw\"]/div/div/div[2]/div[4]/div[2]/div[1]/div/div[2]");
+		
 	}
 	
-	public String searchGoogle(String key) {
+	public void searchGoogle(String key) {
 //		initialzing condition for searching
-		loginGmail("ribostrush@gmail.com", "091616Package");
+//		loginGmail("ribostrush@gmail.com", "091616Package");
 //		input keyword
-		WebElement webElement = browser.findElementById("lst-ib");
+		WebElement webElement = wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("lst-ib")));
+		webElement = browser.findElementById("lst-ib");
+		webElement.click();
 		webElement.sendKeys(key);
 		
 //		enter for first result
@@ -56,15 +63,11 @@ public class WebKeyword {
 		webElement = browser.findElementByXPath("//*[@id=\"rso\"]/div/div/div[1]/div/div/h3/a");
 		webElement.click();
 		
-		webElement = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id=\"yt-masthead-account-picker\"]/button/span/span/span/span/img")));
-		webElement = browser.findElementByXPath("//*[@id=\"yt-masthead-account-picker\"]/button/span/span/span/span/img");
-		
-		return webElement.getAttribute("src");
 	}
 	
-	public String playYoutube() {
+	public void playYoutube() {
 //		initializing condition for playing
-		searchGoogle("youtube");
+//		searchGoogle("youtube");
 //		click on my music list
 		WebElement webElement = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id=\"VLPLiPopaJ6ym29aFgpkHX6LoAYYtU-nvIop-guide-item\"]/a/span/span[2]/span")));
 		webElement = browser.findElementByXPath("//*[@id=\"VLPLiPopaJ6ym29aFgpkHX6LoAYYtU-nvIop-guide-item\"]/a/span/span[2]/span");
@@ -78,28 +81,27 @@ public class WebKeyword {
 //		get title
 		webElement = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id=\"eow-title\"]")));
 		webElement = browser.findElementByXPath("//*[@id=\"eow-title\"]");
+		webElement.getText();
 		
-		return webElement.getAttribute("title");
 	}
 	
-	public String playNext() {
-		//initialzing condition for play next
-		playYoutube();
+	public void playNext() {
+//		initialzing condition for play next
+//		playYoutube();
 //		play second song
 		WebElement webElement = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id=\"playlist-autoscroll-list\"]/li[8]/a/div/h4")));
 		webElement = browser.findElementByXPath("//*[@id=\"playlist-autoscroll-list\"]/li[8]/a/div/h4");
 		webElement.click();
 		
 //		get title
-		webElement = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id=\"eow-title\"]")));
-		webElement = browser.findElementByXPath("//*[@id=\"eow-title\"]");
-		
-		return webElement.getAttribute("title");
+		wait.until(ExpectedConditions.titleContains("Đan Nguyên - Lại Nhớ Người Yêu (Giao Tiên) PBN 119 - YouTube"));
+		webElement = wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("eow-title")));
+		webElement = browser.findElementById("eow-title");
+
 	}
 	
-	public static void main(String[] args) {
-		WebKeyword webKeyword = new WebKeyword();
-		webKeyword.init();
-		System.out.println(webKeyword.playNext());
+	public void closeAll() {
+		browser.close();
 	}
+	
 }

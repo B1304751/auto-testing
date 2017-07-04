@@ -1,6 +1,6 @@
 *** Settings ***
 Library  Selenium2Library
-Library  org.robotframework.javalib.library.AnnotationLibrary  com/robotframework/**.class
+Library  com.robotframework.WebKeyword
 Resource  user-data.txt
 *** Variables ***
 ${SEARCH_KEY}  youtube
@@ -8,6 +8,13 @@ ${SEARCH_KEY}  youtube
 Auto testing with the java keywords
 	[Tags]  selenium2library
 	Init
-	Loggin Gmail  ${EMAIL}  ${PASSWORD}
-	Search Google  ${SEARCH_KEY}
+	LoginGmail  ${EMAIL}  ${PASSWORD}
+	SearchGoogle  ${SEARCH_KEY}
+	PlayYoutube
+	Sleep  10s
+	PlayNext
+	Sleep  10s
+	Close All
+	
+		
 

@@ -1,0 +1,554 @@
+2017-07-05 09:25:13 INFO  WebKeyword:36 - setting mock object
+2017-07-05 09:25:13 INFO  WebKeyword:36 - setting mock object
+2017-07-05 09:25:13 INFO  WebKeyword:36 - setting mock object
+2017-07-05 09:25:13 INFO  WebKeyword:36 - setting mock object
+2017-07-05 09:34:08 INFO  WebKeyword:36 - setting mock object
+2017-07-05 09:34:09 INFO  WebKeyword:36 - setting mock object
+2017-07-05 09:34:09 INFO  WebKeyword:36 - setting mock object
+2017-07-05 09:34:09 INFO  WebKeyword:36 - setting mock object
+2017-07-05 09:34:09 INFO  WebKeyword:54 - throw exception
+2017-07-05 09:40:06 INFO  WebKeyword:36 - setting mock object
+2017-07-05 09:40:07 INFO  WebKeyword:54 - testing login gmail
+2017-07-05 09:40:07 INFO  WebKeyword:36 - setting mock object
+2017-07-05 09:40:07 INFO  WebKeyword:36 - setting mock object
+2017-07-05 09:40:07 INFO  WebKeyword:36 - setting mock object
+2017-07-05 09:42:04 INFO  WebKeyword:36 - setting mock object
+2017-07-05 09:42:05 INFO  WebKeyword:36 - setting mock object
+2017-07-05 09:42:05 INFO  WebKeyword:36 - setting mock object
+2017-07-05 09:42:05 INFO  WebKeyword:36 - setting mock object
+2017-07-05 09:42:05 INFO  WebKeyword:54 - testing login gmail
+2017-07-05 09:45:28 INFO  WebKeyword:36 - setting mock object
+2017-07-05 09:45:29 INFO  WebKeyword:36 - setting mock object
+2017-07-05 09:45:29 INFO  WebKeyword:36 - setting mock object
+2017-07-05 09:45:29 INFO  WebKeyword:36 - setting mock object
+2017-07-05 09:45:29 INFO  WebKeyword:55 - testing login gmail
+2017-07-05 09:46:24 INFO  WebKeyword:36 - setting mock object
+2017-07-05 09:46:25 INFO  WebKeyword:36 - setting mock object
+2017-07-05 09:46:25 INFO  WebKeyword:36 - setting mock object
+2017-07-05 09:46:25 INFO  WebKeyword:36 - setting mock object
+2017-07-05 09:46:25 INFO  WebKeyword:55 - testing login gmail
+2017-07-05 09:49:54 INFO  WebKeyword:37 - setting mock object
+2017-07-05 09:49:54 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 09:50:00 INFO  WebKeyword:37 - setting mock object
+2017-07-05 09:50:00 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 09:50:05 INFO  WebKeyword:37 - setting mock object
+2017-07-05 09:50:05 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 09:50:08 INFO  WebKeyword:37 - setting mock object
+2017-07-05 09:50:08 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 09:50:12 INFO  WebKeyword:57 - testing login gmail
+2017-07-05 09:51:17 INFO  WebKeyword:37 - setting mock object
+2017-07-05 09:51:18 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 09:51:23 INFO  WebKeyword:57 - testing login gmail
+2017-07-05 09:52:11 INFO  WebKeyword:37 - setting mock object
+2017-07-05 09:52:12 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 09:52:18 INFO  WebKeyword:57 - testing login gmail
+2017-07-05 09:54:58 INFO  WebKeyword:37 - setting mock object
+2017-07-05 09:54:59 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 09:55:04 INFO  WebKeyword:57 - testing login gmail
+2017-07-05 09:55:04 INFO  WebKeyword:23 - running login gmail
+2017-07-05 09:55:41 INFO  WebKeyword:37 - setting mock object
+2017-07-05 09:55:42 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 09:55:48 INFO  WebKeyword:57 - testing login gmail
+2017-07-05 09:55:48 INFO  WebKeyword:23 - running login gmail
+2017-07-05 10:00:15 INFO  WebKeyword:37 - setting mock object
+2017-07-05 10:00:16 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 10:00:21 INFO  WebKeyword:57 - testing login gmail
+2017-07-05 10:01:16 INFO  WebKeyword:37 - setting mock object
+2017-07-05 10:01:17 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 10:01:22 INFO  WebKeyword:57 - testing login gmail
+2017-07-05 10:02:30 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 10:02:36 INFO  WebKeyword:60 - testing login gmail
+2017-07-05 10:03:12 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 10:03:18 INFO  WebKeyword:60 - testing login gmail
+2017-07-05 10:03:18 INFO  WebKeyword:23 - running login gmail
+2017-07-05 10:07:48 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 10:07:54 INFO  WebKeyword:62 - testing login gmail
+2017-07-05 10:15:00 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 10:15:05 INFO  WebKeyword:62 - testing login gmail
+2017-07-05 10:15:32 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 10:15:37 INFO  WebKeyword:62 - testing login gmail
+2017-07-05 10:16:20 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 10:16:26 INFO  WebKeyword:62 - testing login gmail
+2017-07-05 10:18:24 INFO  WebKeyword:39 - setting mock object
+2017-07-05 10:18:25 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 10:18:30 INFO  WebKeyword:58 - testing login gmail
+2017-07-05 10:19:29 INFO  WebKeyword:39 - setting mock object
+2017-07-05 10:19:30 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 10:19:35 INFO  WebKeyword:58 - testing login gmail
+2017-07-05 10:20:01 INFO  WebKeyword:39 - setting mock object
+2017-07-05 10:20:01 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 10:20:07 INFO  WebKeyword:58 - testing login gmail
+2017-07-05 10:20:07 INFO  WebKeyword:23 - running login gmail
+2017-07-05 10:21:45 INFO  WebKeyword:39 - setting mock object
+2017-07-05 10:21:46 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 10:21:51 INFO  WebKeyword:58 - testing login gmail
+2017-07-05 10:21:51 INFO  WebKeyword:23 - running login gmail
+2017-07-05 10:23:12 INFO  WebKeyword:39 - setting mock object
+2017-07-05 10:23:13 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 10:23:18 INFO  WebKeyword:58 - testing login gmail
+2017-07-05 10:23:54 INFO  WebKeyword:39 - setting mock object
+2017-07-05 10:23:55 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 10:24:00 INFO  WebKeyword:58 - testing login gmail
+2017-07-05 10:24:31 INFO  WebKeyword:39 - setting mock object
+2017-07-05 10:24:31 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 10:24:37 INFO  WebKeyword:58 - testing login gmail
+2017-07-05 10:26:19 INFO  WebKeyword:35 - setting mock object
+2017-07-05 10:26:20 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 10:26:25 INFO  WebKeyword:54 - testing login gmail
+2017-07-05 10:28:33 INFO  WebKeyword:37 - setting mock object
+2017-07-05 10:28:34 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 10:28:40 INFO  WebKeyword:56 - testing login gmail
+2017-07-05 10:29:11 INFO  WebKeyword:39 - setting mock object
+2017-07-05 10:29:11 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 10:29:16 INFO  WebKeyword:58 - testing login gmail
+2017-07-05 10:31:18 INFO  WebKeyword:37 - setting mock object
+2017-07-05 10:31:19 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 10:31:24 INFO  WebKeyword:56 - testing login gmail
+2017-07-05 10:31:24 INFO  WebKeyword:23 - running login gmail
+2017-07-05 10:31:56 INFO  WebKeyword:37 - setting mock object
+2017-07-05 10:31:57 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 10:32:03 INFO  WebKeyword:56 - testing login gmail
+2017-07-05 10:32:32 INFO  WebKeyword:37 - setting mock object
+2017-07-05 10:32:33 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 10:32:37 INFO  WebKeyword:56 - testing login gmail
+2017-07-05 10:33:18 INFO  WebKeyword:37 - setting mock object
+2017-07-05 10:33:18 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 10:33:24 INFO  WebKeyword:56 - testing login gmail
+2017-07-05 10:36:54 INFO  WebKeyword:37 - setting mock object
+2017-07-05 10:36:55 INFO  WebKeyword:55 - testing login gmail
+2017-07-05 10:36:55 INFO  WebKeyword:23 - running login gmail
+2017-07-05 10:55:05 INFO  WebKeyword:40 - ============ START UNIT TEST ==============
+2017-07-05 10:55:06 INFO  WebKeyword:50 - setting mock object
+2017-07-05 10:55:07 INFO  WebKeyword:68 - testing login gmail
+2017-07-05 10:55:07 INFO  WebKeyword:45 - ============ END UNIT TEST ==============
+2017-07-05 10:58:13 INFO  WebKeyword:44 - ============ START UNIT TEST ==============
+2017-07-05 10:58:14 INFO  WebKeyword:54 - setting mock object
+2017-07-05 10:58:14 INFO  WebKeyword:73 - testing login gmail
+2017-07-05 10:58:14 INFO  WebKeyword:23 - running login gmail
+2017-07-05 10:58:14 INFO  WebKeyword:49 - ============ END UNIT TEST ==============
+2017-07-05 11:11:24 INFO  WebKeyword:51 - setting mock object
+2017-07-05 11:11:25 INFO  WebKeyword:69 - testing login gmail
+2017-07-05 11:11:47 INFO  WebKeyword:51 - setting mock object
+2017-07-05 11:11:48 INFO  WebKeyword:69 - testing login gmail
+2017-07-05 11:12:13 INFO  WebKeyword:51 - setting mock object
+2017-07-05 11:12:14 INFO  WebKeyword:69 - testing login gmail
+2017-07-05 11:12:50 INFO  WebKeyword:51 - setting mock object
+2017-07-05 11:13:13 INFO  WebKeyword:51 - setting mock object
+2017-07-05 11:13:14 INFO  WebKeyword:69 - testing login gmail
+2017-07-05 11:51:45 INFO  WebKeyword:51 - setting mock object
+2017-07-05 11:51:46 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 11:52:27 INFO  WebKeyword:51 - setting mock object
+2017-07-05 11:52:28 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 11:55:18 INFO  WebKeyword:51 - setting mock object
+2017-07-05 11:55:18 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 11:55:23 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 11:55:23 INFO  WebKeyword:23 - running login gmail
+2017-07-05 11:57:02 INFO  WebKeyword:51 - setting mock object
+2017-07-05 11:57:02 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 11:57:08 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 11:57:08 INFO  WebKeyword:23 - running login gmail
+2017-07-05 11:57:50 INFO  WebKeyword:51 - setting mock object
+2017-07-05 11:57:50 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 11:57:56 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 11:57:56 INFO  WebKeyword:23 - running login gmail
+2017-07-05 11:58:14 INFO  WebKeyword:51 - setting mock object
+2017-07-05 11:58:14 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 11:58:20 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 11:58:20 INFO  WebKeyword:23 - running login gmail
+2017-07-05 11:58:53 INFO  WebKeyword:51 - setting mock object
+2017-07-05 11:58:53 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 11:58:58 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 11:58:58 INFO  WebKeyword:23 - running login gmail
+2017-07-05 11:59:52 INFO  WebKeyword:51 - setting mock object
+2017-07-05 11:59:53 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 12:00:07 INFO  WebKeyword:51 - setting mock object
+2017-07-05 12:00:08 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 12:00:27 INFO  WebKeyword:51 - setting mock object
+2017-07-05 12:00:29 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 14:30:50 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 14:31:15 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 14:31:15 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 14:31:21 INFO  WebKeyword:23 - running login gmail
+2017-07-05 15:01:48 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 15:02:15 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 15:02:39 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 15:02:51 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 15:03:34 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 15:04:18 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 15:05:38 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 15:05:58 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 15:07:31 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 15:17:09 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 15:17:36 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 15:22:43 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 15:23:13 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 15:23:46 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 15:31:49 INFO  WebKeyword:52 - setting mock object
+2017-07-05 15:31:50 INFO  WebKeyword:69 - testing login gmail
+2017-07-05 15:32:33 INFO  WebKeyword:53 - setting mock object
+2017-07-05 15:32:34 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 16:00:09 INFO  WebKeyword:44 - ============ START UNIT TEST ==============
+2017-07-05 16:00:10 INFO  WebKeyword:54 - setting mock object
+2017-07-05 16:00:10 INFO  WebKeyword:71 - testing login gmail
+2017-07-05 16:00:10 INFO  WebKeyword:49 - ============ END UNIT TEST ==============
+2017-07-05 16:00:55 INFO  WebKeyword:44 - ============ START UNIT TEST ==============
+2017-07-05 16:00:56 INFO  WebKeyword:54 - setting mock object
+2017-07-05 16:00:56 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 16:00:56 INFO  WebKeyword:49 - ============ END UNIT TEST ==============
+2017-07-05 16:05:39 INFO  WebKeyword:44 - ============ START UNIT TEST ==============
+2017-07-05 16:05:40 INFO  WebKeyword:54 - setting mock object
+2017-07-05 16:05:40 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 16:05:40 INFO  WebKeyword:49 - ============ END UNIT TEST ==============
+2017-07-05 16:05:56 INFO  WebKeyword:44 - ============ START UNIT TEST ==============
+2017-07-05 16:05:57 INFO  WebKeyword:54 - setting mock object
+2017-07-05 16:05:57 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 16:05:57 INFO  WebKeyword:49 - ============ END UNIT TEST ==============
+2017-07-05 16:10:44 INFO  WebKeyword:44 - ============ START UNIT TEST ==============
+2017-07-05 16:10:45 INFO  WebKeyword:54 - setting mock object
+2017-07-05 16:10:45 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 16:10:45 INFO  WebKeyword:49 - ============ END UNIT TEST ==============
+2017-07-05 16:12:25 INFO  WebKeyword:44 - ============ START UNIT TEST ==============
+2017-07-05 16:12:26 INFO  WebKeyword:54 - setting mock object
+2017-07-05 16:12:26 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 16:12:26 INFO  WebKeyword:49 - ============ END UNIT TEST ==============
+2017-07-05 16:12:59 INFO  WebKeyword:44 - ============ START UNIT TEST ==============
+2017-07-05 16:13:01 INFO  WebKeyword:54 - setting mock object
+2017-07-05 16:13:01 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 16:13:01 INFO  WebKeyword:49 - ============ END UNIT TEST ==============
+2017-07-05 16:15:06 INFO  WebKeyword:47 - ============ START UNIT TEST ==============
+2017-07-05 16:15:07 INFO  WebKeyword:57 - setting mock object
+2017-07-05 16:15:07 INFO  WebKeyword:73 - testing login gmail
+2017-07-05 16:15:08 INFO  WebKeyword:52 - ============ END UNIT TEST ==============
+2017-07-05 16:16:45 INFO  WebKeyword:47 - ============ START UNIT TEST ==============
+2017-07-05 16:16:47 INFO  WebKeyword:57 - setting mock object
+2017-07-05 16:16:47 INFO  WebKeyword:73 - testing login gmail
+2017-07-05 16:16:47 INFO  WebKeyword:52 - ============ END UNIT TEST ==============
+2017-07-05 16:18:20 INFO  WebKeyword:47 - ============ START UNIT TEST ==============
+2017-07-05 16:18:21 INFO  WebKeyword:57 - setting mock object
+2017-07-05 16:18:21 INFO  WebKeyword:73 - testing login gmail
+2017-07-05 16:18:21 INFO  WebKeyword:52 - ============ END UNIT TEST ==============
+2017-07-05 16:18:54 INFO  WebKeyword:47 - ============ START UNIT TEST ==============
+2017-07-05 16:18:55 INFO  WebKeyword:57 - setting mock object
+2017-07-05 16:18:55 INFO  WebKeyword:73 - testing login gmail
+2017-07-05 16:18:56 INFO  WebKeyword:78 - 
+2017-07-05 16:18:56 INFO  WebKeyword:52 - ============ END UNIT TEST ==============
+2017-07-05 16:19:26 INFO  WebKeyword:47 - ============ START UNIT TEST ==============
+2017-07-05 16:19:27 INFO  WebKeyword:57 - setting mock object
+2017-07-05 16:19:27 INFO  WebKeyword:73 - testing login gmail
+2017-07-05 16:19:27 INFO  WebKeyword:78 - true
+2017-07-05 16:19:27 INFO  WebKeyword:52 - ============ END UNIT TEST ==============
+2017-07-05 16:24:08 INFO  WebKeyword:48 - ============ START UNIT TEST ==============
+2017-07-05 16:24:09 INFO  WebKeyword:58 - setting mock object
+2017-07-05 16:24:09 INFO  WebKeyword:74 - testing login gmail
+2017-07-05 16:24:09 INFO  WebKeyword:53 - ============ END UNIT TEST ==============
+2017-07-05 16:24:58 INFO  WebKeyword:47 - ============ START UNIT TEST ==============
+2017-07-05 16:24:59 INFO  WebKeyword:57 - setting mock object
+2017-07-05 16:24:59 INFO  WebKeyword:73 - testing login gmail
+2017-07-05 16:24:59 INFO  WebKeyword:52 - ============ END UNIT TEST ==============
+2017-07-05 16:29:30 INFO  WebKeyword:47 - ============ START UNIT TEST ==============
+2017-07-05 16:29:32 INFO  WebKeyword:57 - setting mock object
+2017-07-05 16:29:32 INFO  WebKeyword:73 - testing login gmail
+2017-07-05 16:29:32 INFO  WebKeyword:52 - ============ END UNIT TEST ==============
+2017-07-05 16:30:16 INFO  WebKeyword:47 - ============ START UNIT TEST ==============
+2017-07-05 16:30:17 INFO  WebKeyword:57 - setting mock object
+2017-07-05 16:30:17 INFO  WebKeyword:73 - testing login gmail
+2017-07-05 16:30:17 INFO  WebKeyword:52 - ============ END UNIT TEST ==============
+2017-07-05 16:31:24 INFO  WebKeyword:47 - ============ START UNIT TEST ==============
+2017-07-05 16:31:25 INFO  WebKeyword:57 - setting mock object
+2017-07-05 16:31:25 INFO  WebKeyword:73 - testing login gmail
+2017-07-05 16:31:25 INFO  WebKeyword:80 - ok
+2017-07-05 16:31:25 INFO  WebKeyword:52 - ============ END UNIT TEST ==============
+2017-07-05 16:33:51 INFO  WebKeyword:48 - ============ START UNIT TEST ==============
+2017-07-05 16:33:52 INFO  WebKeyword:58 - setting mock object
+2017-07-05 16:33:52 INFO  WebKeyword:75 - testing login gmail
+2017-07-05 16:33:52 INFO  WebKeyword:82 - ok
+2017-07-05 16:33:52 INFO  WebKeyword:53 - ============ END UNIT TEST ==============
+2017-07-05 16:34:30 INFO  WebKeyword:48 - ============ START UNIT TEST ==============
+2017-07-05 16:34:31 INFO  WebKeyword:58 - setting mock object
+2017-07-05 16:34:31 INFO  WebKeyword:75 - testing login gmail
+2017-07-05 16:34:31 INFO  WebKeyword:53 - ============ END UNIT TEST ==============
+2017-07-05 16:35:50 INFO  WebKeyword:43 - ============ START UNIT TEST ==============
+2017-07-05 16:35:51 INFO  WebKeyword:53 - setting mock object
+2017-07-05 16:35:51 INFO  WebKeyword:69 - testing login gmail
+2017-07-05 16:35:51 INFO  WebKeyword:48 - ============ END UNIT TEST ==============
+2017-07-05 16:36:08 INFO  WebKeyword:43 - ============ START UNIT TEST ==============
+2017-07-05 16:36:09 INFO  WebKeyword:53 - setting mock object
+2017-07-05 16:36:09 INFO  WebKeyword:69 - testing login gmail
+2017-07-05 16:36:09 INFO  WebKeyword:76 - valid arguments
+2017-07-05 16:36:09 INFO  WebKeyword:48 - ============ END UNIT TEST ==============
+2017-07-05 16:36:40 INFO  WebKeyword:43 - ============ START UNIT TEST ==============
+2017-07-05 16:36:41 INFO  WebKeyword:53 - setting mock object
+2017-07-05 16:36:41 INFO  WebKeyword:69 - testing login gmail
+2017-07-05 16:36:41 INFO  WebKeyword:48 - ============ END UNIT TEST ==============
+2017-07-05 16:36:58 INFO  WebKeyword:43 - ============ START UNIT TEST ==============
+2017-07-05 16:36:59 INFO  WebKeyword:53 - setting mock object
+2017-07-05 16:36:59 INFO  WebKeyword:69 - testing login gmail
+2017-07-05 16:36:59 INFO  WebKeyword:48 - ============ END UNIT TEST ==============
+2017-07-05 16:37:14 INFO  WebKeyword:43 - ============ START UNIT TEST ==============
+2017-07-05 16:37:15 INFO  WebKeyword:53 - setting mock object
+2017-07-05 16:37:15 INFO  WebKeyword:69 - testing login gmail
+2017-07-05 16:37:15 INFO  WebKeyword:48 - ============ END UNIT TEST ==============
+2017-07-05 16:38:07 INFO  WebKeyword:43 - ============ START UNIT TEST ==============
+2017-07-05 16:38:08 INFO  WebKeyword:53 - setting mock object
+2017-07-05 16:38:08 INFO  WebKeyword:69 - testing login gmail
+2017-07-05 16:38:08 INFO  WebKeyword:48 - ============ END UNIT TEST ==============
+2017-07-05 16:38:26 INFO  WebKeyword:43 - ============ START UNIT TEST ==============
+2017-07-05 16:38:27 INFO  WebKeyword:53 - setting mock object
+2017-07-05 16:38:27 INFO  WebKeyword:69 - testing login gmail
+2017-07-05 16:38:27 INFO  WebKeyword:76 - ribostrush@gmail.com 12345678
+2017-07-05 16:38:27 INFO  WebKeyword:77 - valid arguments
+2017-07-05 16:38:27 INFO  WebKeyword:48 - ============ END UNIT TEST ==============
+2017-07-05 16:40:32 INFO  WebKeyword:43 - ============ START UNIT TEST ==============
+2017-07-05 16:40:33 INFO  WebKeyword:53 - setting mock object
+2017-07-05 16:40:33 INFO  WebKeyword:69 - testing login gmail
+2017-07-05 16:40:34 INFO  WebKeyword:76 - ribostrush@gmail.com 12345678
+2017-07-05 16:40:34 INFO  WebKeyword:77 - valid arguments
+2017-07-05 16:40:34 INFO  WebKeyword:48 - ============ END UNIT TEST ==============
+2017-07-05 16:46:50 INFO  WebKeyword:43 - ============ START UNIT TEST ==============
+2017-07-05 16:46:51 INFO  WebKeyword:53 - setting mock object
+2017-07-05 16:46:51 INFO  WebKeyword:53 - setting mock object
+2017-07-05 16:46:51 INFO  WebKeyword:53 - setting mock object
+2017-07-05 16:46:51 INFO  WebKeyword:88 - google search testing
+2017-07-05 16:46:51 INFO  WebKeyword:53 - setting mock object
+2017-07-05 16:46:51 INFO  WebKeyword:69 - testing login gmail
+2017-07-05 16:46:51 INFO  WebKeyword:76 - ribostrush@gmail.com 12345678
+2017-07-05 16:46:51 INFO  WebKeyword:77 - valid arguments
+2017-07-05 16:46:51 INFO  WebKeyword:48 - ============ END UNIT TEST ==============
+2017-07-05 16:47:25 INFO  WebKeyword:43 - ============ START UNIT TEST ==============
+2017-07-05 16:47:26 INFO  WebKeyword:53 - setting mock object
+2017-07-05 16:47:26 INFO  WebKeyword:53 - setting mock object
+2017-07-05 16:47:26 INFO  WebKeyword:53 - setting mock object
+2017-07-05 16:47:26 INFO  WebKeyword:88 - google search testing
+2017-07-05 16:47:27 INFO  WebKeyword:94 - valid key
+2017-07-05 16:47:27 INFO  WebKeyword:53 - setting mock object
+2017-07-05 16:47:27 INFO  WebKeyword:69 - testing login gmail
+2017-07-05 16:47:27 INFO  WebKeyword:76 - ribostrush@gmail.com 12345678
+2017-07-05 16:47:27 INFO  WebKeyword:77 - valid arguments
+2017-07-05 16:47:27 INFO  WebKeyword:48 - ============ END UNIT TEST ==============
+2017-07-05 17:01:35 INFO  WebKeyword:43 - ============ START UNIT TEST ==============
+2017-07-05 17:01:36 INFO  WebKeyword:53 - setting mock object
+2017-07-05 17:01:36 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 17:01:36 INFO  WebKeyword:77 - ribostrush@gmail.com 12345678
+2017-07-05 17:01:36 INFO  WebKeyword:78 - valid arguments
+2017-07-05 17:01:36 INFO  WebKeyword:61 - teardown mock
+2017-07-05 17:01:36 INFO  WebKeyword:53 - setting mock object
+2017-07-05 17:01:36 INFO  WebKeyword:89 - google search testing
+2017-07-05 17:01:36 INFO  WebKeyword:95 - valid key
+2017-07-05 17:01:36 INFO  WebKeyword:61 - teardown mock
+2017-07-05 17:01:36 INFO  WebKeyword:53 - setting mock object
+2017-07-05 17:01:36 INFO  WebKeyword:61 - teardown mock
+2017-07-05 17:01:36 INFO  WebKeyword:53 - setting mock object
+2017-07-05 17:01:36 INFO  WebKeyword:61 - teardown mock
+2017-07-05 17:01:36 INFO  WebKeyword:48 - ============ END UNIT TEST ==============
+2017-07-05 17:07:54 INFO  WebKeyword:42 - ============ START UNIT TEST ==============
+2017-07-05 17:07:55 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:07:55 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:07:55 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:07:55 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:07:55 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:07:55 INFO  WebKeyword:88 - google search testing
+2017-07-05 17:07:55 INFO  WebKeyword:94 - valid key
+2017-07-05 17:07:55 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:07:55 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:07:55 INFO  WebKeyword:69 - testing login gmail
+2017-07-05 17:07:55 INFO  WebKeyword:76 - ribostrush@gmail.com 123456
+2017-07-05 17:07:55 INFO  WebKeyword:77 - valid arguments
+2017-07-05 17:07:55 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:07:55 INFO  WebKeyword:47 - ============ END UNIT TEST ==============
+2017-07-05 17:09:11 INFO  WebKeyword:42 - ============ START UNIT TEST ==============
+2017-07-05 17:09:12 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:09:12 INFO  WebKeyword:88 - google search testing
+2017-07-05 17:09:12 INFO  WebKeyword:94 - valid key
+2017-07-05 17:09:12 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:09:12 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:09:12 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:09:12 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:09:12 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:09:12 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:09:12 INFO  WebKeyword:69 - testing login gmail
+2017-07-05 17:09:12 INFO  WebKeyword:76 - ribostrush@gmail.com 123456
+2017-07-05 17:09:12 INFO  WebKeyword:77 - valid arguments
+2017-07-05 17:09:12 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:09:12 INFO  WebKeyword:47 - ============ END UNIT TEST ==============
+2017-07-05 17:09:41 INFO  WebKeyword:42 - ============ START UNIT TEST ==============
+2017-07-05 17:09:42 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:09:42 INFO  WebKeyword:88 - google search testing
+2017-07-05 17:09:42 INFO  WebKeyword:94 - valid key
+2017-07-05 17:09:42 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:09:42 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:09:42 INFO  WebKeyword:69 - testing login gmail
+2017-07-05 17:09:42 INFO  WebKeyword:76 - ribostrush@gmail.com 123456
+2017-07-05 17:09:42 INFO  WebKeyword:77 - valid arguments
+2017-07-05 17:09:42 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:09:42 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:09:42 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:09:42 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:09:42 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:09:42 INFO  WebKeyword:47 - ============ END UNIT TEST ==============
+2017-07-05 17:11:21 INFO  WebKeyword:42 - ============ START UNIT TEST ==============
+2017-07-05 17:11:22 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:11:22 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:11:22 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:11:22 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:11:22 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:11:22 INFO  WebKeyword:88 - google search testing
+2017-07-05 17:11:22 INFO  WebKeyword:94 - valid key
+2017-07-05 17:11:22 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:11:22 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:11:22 INFO  WebKeyword:69 - testing login gmail
+2017-07-05 17:11:22 INFO  WebKeyword:76 - ribostrush@gmail.com 123456
+2017-07-05 17:11:22 INFO  WebKeyword:77 - valid arguments
+2017-07-05 17:11:22 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:11:22 INFO  WebKeyword:47 - ============ END UNIT TEST ==============
+2017-07-05 17:16:58 INFO  WebKeyword:42 - ============ START UNIT TEST ==============
+2017-07-05 17:16:59 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:16:59 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:16:59 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:16:59 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:16:59 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:16:59 INFO  WebKeyword:88 - google search testing
+2017-07-05 17:16:59 INFO  WebKeyword:94 - valid key
+2017-07-05 17:16:59 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:16:59 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:16:59 INFO  WebKeyword:69 - testing login gmail
+2017-07-05 17:16:59 INFO  WebKeyword:76 - ribostrush@gmail.com 123456
+2017-07-05 17:16:59 INFO  WebKeyword:77 - valid arguments
+2017-07-05 17:16:59 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:16:59 INFO  WebKeyword:47 - ============ END UNIT TEST ==============
+2017-07-05 17:27:22 INFO  WebKeyword:42 - ============ START UNIT TEST ==============
+2017-07-05 17:27:23 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:27:23 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:27:23 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:27:23 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:27:23 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:27:23 INFO  WebKeyword:88 - google search testing
+2017-07-05 17:27:23 INFO  WebKeyword:94 - valid key
+2017-07-05 17:27:23 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:27:23 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:27:23 INFO  WebKeyword:69 - testing login gmail
+2017-07-05 17:27:23 INFO  WebKeyword:76 - ribostrush@gmail.com 123456
+2017-07-05 17:27:23 INFO  WebKeyword:77 - valid arguments
+2017-07-05 17:27:23 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:27:23 INFO  WebKeyword:47 - ============ END UNIT TEST ==============
+2017-07-05 17:32:32 INFO  WebKeyword:41 - ============ START UNIT TEST ==============
+2017-07-05 17:32:32 INFO  WebKeyword:51 - setting mock object
+2017-07-05 17:32:33 INFO  WebKeyword:69 - testing login gmail
+2017-07-05 17:32:33 INFO  WebKeyword:76 - ribostrush@gmail.com 123456
+2017-07-05 17:32:33 INFO  WebKeyword:77 - valid arguments
+2017-07-05 17:32:33 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:32:33 INFO  WebKeyword:51 - setting mock object
+2017-07-05 17:32:33 INFO  WebKeyword:88 - google search testing
+2017-07-05 17:32:33 INFO  WebKeyword:94 - valid key
+2017-07-05 17:32:33 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:32:33 INFO  WebKeyword:51 - setting mock object
+2017-07-05 17:32:33 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:32:33 INFO  WebKeyword:51 - setting mock object
+2017-07-05 17:32:33 INFO  WebKeyword:60 - teardown mock
+2017-07-05 17:32:33 INFO  WebKeyword:46 - ============ END UNIT TEST ==============
+2017-07-05 17:33:20 INFO  WebKeyword:41 - ============ START UNIT TEST ==============
+2017-07-05 17:33:20 INFO  WebKeyword:51 - setting mock object
+2017-07-05 17:33:21 INFO  WebKeyword:89 - google search testing
+2017-07-05 17:33:21 INFO  WebKeyword:95 - valid key
+2017-07-05 17:33:21 INFO  WebKeyword:61 - teardown mock
+2017-07-05 17:33:21 INFO  WebKeyword:51 - setting mock object
+2017-07-05 17:33:21 INFO  WebKeyword:61 - teardown mock
+2017-07-05 17:33:21 INFO  WebKeyword:51 - setting mock object
+2017-07-05 17:33:21 INFO  WebKeyword:61 - teardown mock
+2017-07-05 17:33:21 INFO  WebKeyword:51 - setting mock object
+2017-07-05 17:33:21 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 17:33:21 INFO  WebKeyword:77 - ribostrush@gmail.com 123456
+2017-07-05 17:33:21 INFO  WebKeyword:78 - valid arguments
+2017-07-05 17:33:21 INFO  WebKeyword:61 - teardown mock
+2017-07-05 17:33:21 INFO  WebKeyword:46 - ============ END UNIT TEST ==============
+2017-07-05 17:35:28 INFO  WebKeyword:41 - ============ START UNIT TEST ==============
+2017-07-05 17:35:29 INFO  WebKeyword:51 - setting mock object
+2017-07-05 17:35:30 INFO  WebKeyword:61 - teardown mock
+2017-07-05 17:35:30 INFO  WebKeyword:51 - setting mock object
+2017-07-05 17:35:30 INFO  WebKeyword:89 - google search testing
+2017-07-05 17:35:30 INFO  WebKeyword:95 - valid key
+2017-07-05 17:35:30 INFO  WebKeyword:61 - teardown mock
+2017-07-05 17:35:30 INFO  WebKeyword:51 - setting mock object
+2017-07-05 17:35:30 INFO  WebKeyword:70 - testing login gmail
+2017-07-05 17:35:30 INFO  WebKeyword:77 - ribostrush@gmail.com 123456
+2017-07-05 17:35:30 INFO  WebKeyword:78 - valid arguments
+2017-07-05 17:35:30 INFO  WebKeyword:61 - teardown mock
+2017-07-05 17:35:30 INFO  WebKeyword:51 - setting mock object
+2017-07-05 17:35:30 INFO  WebKeyword:61 - teardown mock
+2017-07-05 17:35:30 INFO  WebKeyword:46 - ============ END UNIT TEST ==============
+2017-07-05 17:36:41 INFO  WebKeyword:41 - ============ START UNIT TEST ==============
+2017-07-05 17:36:41 INFO  WebKeyword:51 - setting mock object
+2017-07-05 17:36:42 INFO  WebKeyword:62 - teardown mock
+2017-07-05 17:36:42 INFO  WebKeyword:51 - setting mock object
+2017-07-05 17:36:42 INFO  WebKeyword:62 - teardown mock
+2017-07-05 17:36:42 INFO  WebKeyword:51 - setting mock object
+2017-07-05 17:36:42 INFO  WebKeyword:90 - google search testing
+2017-07-05 17:36:42 INFO  WebKeyword:96 - valid key
+2017-07-05 17:36:42 INFO  WebKeyword:62 - teardown mock
+2017-07-05 17:36:42 INFO  WebKeyword:51 - setting mock object
+2017-07-05 17:36:42 INFO  WebKeyword:71 - testing login gmail
+2017-07-05 17:36:42 INFO  WebKeyword:78 - ribostrush@gmail.com 123456
+2017-07-05 17:36:42 INFO  WebKeyword:79 - valid arguments
+2017-07-05 17:36:42 INFO  WebKeyword:62 - teardown mock
+2017-07-05 17:36:42 INFO  WebKeyword:46 - ============ END UNIT TEST ==============
+2017-07-05 17:37:51 INFO  WebKeyword:42 - ============ START UNIT TEST ==============
+2017-07-05 17:37:52 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:37:52 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 17:37:59 INFO  WebKeyword:91 - google search testing
+2017-07-05 17:37:59 INFO  WebKeyword:63 - teardown mock
+2017-07-05 17:37:59 INFO  WebKeyword:111 - running close all
+2017-07-05 17:37:59 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:37:59 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 17:38:03 INFO  WebKeyword:63 - teardown mock
+2017-07-05 17:38:03 INFO  WebKeyword:111 - running close all
+2017-07-05 17:38:03 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:38:03 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 17:38:07 INFO  WebKeyword:63 - teardown mock
+2017-07-05 17:38:07 INFO  WebKeyword:111 - running close all
+2017-07-05 17:38:08 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:38:08 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 17:38:11 INFO  WebKeyword:72 - testing login gmail
+2017-07-05 17:38:11 INFO  WebKeyword:63 - teardown mock
+2017-07-05 17:38:11 INFO  WebKeyword:111 - running close all
+2017-07-05 17:38:12 INFO  WebKeyword:47 - ============ END UNIT TEST ==============
+2017-07-05 17:40:54 INFO  WebKeyword:42 - ============ START UNIT TEST ==============
+2017-07-05 17:40:54 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:40:55 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 17:41:00 INFO  WebKeyword:63 - teardown mock
+2017-07-05 17:41:00 INFO  WebKeyword:111 - running close all
+2017-07-05 17:41:02 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:41:02 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 17:41:07 INFO  WebKeyword:63 - teardown mock
+2017-07-05 17:41:07 INFO  WebKeyword:111 - running close all
+2017-07-05 17:41:07 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:41:07 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 17:41:11 INFO  WebKeyword:91 - google search testing
+2017-07-05 17:41:11 INFO  WebKeyword:63 - teardown mock
+2017-07-05 17:41:11 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:41:11 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 17:41:14 INFO  WebKeyword:72 - testing login gmail
+2017-07-05 17:41:14 INFO  WebKeyword:79 - ribostrush@gmail.com 123456
+2017-07-05 17:41:14 INFO  WebKeyword:80 - valid arguments
+2017-07-05 17:41:14 INFO  WebKeyword:63 - teardown mock
+2017-07-05 17:41:14 INFO  WebKeyword:111 - running close all
+2017-07-05 17:41:14 INFO  WebKeyword:47 - ============ END UNIT TEST ==============
+2017-07-05 17:53:13 INFO  WebKeyword:42 - ============ START UNIT TEST ==============
+2017-07-05 17:53:13 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:53:14 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 17:53:19 INFO  WebKeyword:91 - google search testing
+2017-07-05 17:53:19 INFO  WebKeyword:63 - teardown mock
+2017-07-05 17:53:19 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:53:19 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 17:53:24 INFO  WebKeyword:72 - testing login gmail
+2017-07-05 17:53:24 INFO  WebKeyword:79 - ribostrush@gmail.com 123456
+2017-07-05 17:53:24 INFO  WebKeyword:80 - valid arguments
+2017-07-05 17:53:24 INFO  WebKeyword:63 - teardown mock
+2017-07-05 17:53:24 INFO  WebKeyword:111 - running close all
+2017-07-05 17:53:24 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:53:24 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 17:53:28 INFO  WebKeyword:63 - teardown mock
+2017-07-05 17:53:28 INFO  WebKeyword:111 - running close all
+2017-07-05 17:53:28 INFO  WebKeyword:52 - setting mock object
+2017-07-05 17:53:28 INFO  WebKeyword:17 - initializing the chrome webdriver
+2017-07-05 17:53:32 INFO  WebKeyword:63 - teardown mock
+2017-07-05 17:53:32 INFO  WebKeyword:111 - running close all
+2017-07-05 17:53:32 INFO  WebKeyword:47 - ============ END UNIT TEST ==============

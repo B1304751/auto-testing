@@ -1,22 +1,26 @@
 package com.robotframework;
 
+import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class WebKeyword {
+public class WebKeyword implements Selenium{
 	
 	private static ChromeDriver browser;
 	private static WebDriverWait wait;
+	private static Logger logger = Logger.getLogger(WebKeyword.class);
 	
 	public void init() {
+		logger.info("initializing the chrome webdriver");
 		browser  = new ChromeDriver();
 		wait = new WebDriverWait(browser, 5);
 	}
 	
 	public void loginGmail(String email, String password) {
+		logger.info("running login gmail");
 //		open browser to specifices url
 		browser.get("https://google.com");
 		browser.manage().window().maximize();
@@ -50,14 +54,15 @@ public class WebKeyword {
 	}
 	
 	public void searchGoogle(String key) {
-//		initialzing condition for searching
+		logger.info("running google search");
+//		initializing condition for searching
 //		loginGmail("ribostrush@gmail.com", "091616Package");
 //		input keyword
 		WebElement webElement = wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("lst-ib")));
 		webElement = browser.findElementById("lst-ib");
 		webElement.click();
 		webElement.sendKeys(key);
-		
+	
 //		enter for first result
 		webElement = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id=\"rso\"]/div/div/div[1]/div/div/h3/a")));
 		webElement = browser.findElementByXPath("//*[@id=\"rso\"]/div/div/div[1]/div/div/h3/a");
@@ -66,6 +71,7 @@ public class WebKeyword {
 	}
 	
 	public void playYoutube() {
+		logger.info("running youtube");
 //		initializing condition for playing
 //		searchGoogle("youtube");
 //		click on my music list
@@ -86,6 +92,7 @@ public class WebKeyword {
 	}
 	
 	public void playNext() {
+		logger.info("running play next");
 //		initialzing condition for play next
 //		playYoutube();
 //		play second song
@@ -101,6 +108,7 @@ public class WebKeyword {
 	}
 	
 	public void closeAll() {
+		logger.info("running close all");
 		browser.close();
 	}
 	
